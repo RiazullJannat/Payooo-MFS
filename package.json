@@ -1,0 +1,20 @@
+{
+  "name": "payooo-mfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiazullJannat/Payooo-MFS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiazullJannat/Payooo-MFS/issues"
+  },
+  "homepage": "https://github.com/RiazullJannat/Payooo-MFS#readme"
+}
